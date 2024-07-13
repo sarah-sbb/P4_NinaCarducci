@@ -267,6 +267,10 @@ input[type="submit"] {
     cursor: pointer;
 }
 
+.question_item {
+	font-size: 24px;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
